@@ -3,6 +3,7 @@ var pdf = require('../../')
 var path = require('path')
 var fs = require('fs')
 
+/*  */
 test('allows custom html and css', function (t) {
   t.plan(3)
 
